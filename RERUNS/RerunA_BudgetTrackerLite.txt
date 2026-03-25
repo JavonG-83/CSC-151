@@ -1,9 +1,10 @@
 //Javon Green (March 2026)
 //Create a program that asks for a list of purchases, does some claculatiosn on the array, and displays the final details
+//it worked before the "Red Hats" shown up
 
 import java.util.Scanner;
 public class RerunA_BudgetTrackerLite {
-    public static void main(String[] args){
+public static void main(String[] args){
 
     Scanner prompt = new Scanner(System.in);
 

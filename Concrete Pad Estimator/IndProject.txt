@@ -16,21 +16,20 @@ pad construction projects.
 
 Core Features
 Your application must include the following:
-
-Initial Estimate Input
-Allow the user to input basic project details (project name, location, etc.).
-Size of Work Area
-Accept and calculate total area (length × width in feet).
-Concrete Requirements
-Calculate the volume of concrete needed based on slab thickness.
-Labor Estimation
-Input number of employees
-Estimate total labor hours
-Calculate labor cost
-Cost Calculations
-Concrete material cost
-Labor cost
-Total project cost
+    Initial Estimate Input
+      Allow the user to input basic project details (project name, location, etc.).
+    Size of Work Area
+      Accept and calculate total area (length × width in feet).
+    Concrete Requirements
+      Calculate the volume of concrete needed based on slab thickness.
+    Labor Estimation
+      Input number of employees
+      Estimate total labor hours
+      Calculate labor cost
+    Cost Calculations
+      Concrete material cost
+      Labor cost
+      Total project cost
 
 Technical Requirements
 
