@@ -1,0 +1,50 @@
+Concrete Pad Estimator
+
+Scenario: Your close friend Jim, recently inherited his uncle's construction business, which specializes in 
+building large warehouse facilities. While Jim is confident in his construction skills, he quickly realizes 
+that he lacks experience in the business and financial aspects of running the company. In particular, he 
+finds the process of estimating concrete pad projects—including materials, labor, and costs—both confusing 
+and frustrating.
+
+To help manage this challenge, Jim has asked you, a friend with programming experience and some knowledge 
+of concrete work, to develop a Concrete Pad Estimating Application. This program will assist him in 
+generating accurate estimates for concrete pad jobs and improving overall business efficiency.
+
+Project Objective
+Design and develop a Java-based application that calculates and generates estimates specifically for concrete 
+pad construction projects.
+
+Core Features
+Your application must include the following:
+
+Initial Estimate Input
+Allow the user to input basic project details (project name, location, etc.).
+Size of Work Area
+Accept and calculate total area (length × width in feet).
+Concrete Requirements
+Calculate the volume of concrete needed based on slab thickness.
+Labor Estimation
+Input number of employees
+Estimate total labor hours
+Calculate labor cost
+Cost Calculations
+Concrete material cost
+Labor cost
+Total project cost
+
+Technical Requirements
+
+Implement CSV file integration to store and retrieve:
+Manpower hours
+Work hours
+Ensure all calculations are accurate and clearly presented to the user.
+
+Additional Features
+Consider adding the following enhancements:
+
+Improved Estimation Tools
+Pre-set slab types (e.g., residential pad, warehouse slab)
+Variable thickness options
+Waste percentage calculations
+Discount System
+Apply percentage or fixed discounts to the final estimate
