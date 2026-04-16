@@ -68,10 +68,15 @@ System.out.println("");
 //Get the total cost by adding both the concrete and labor costs together
 totalCost = concreteCost + laborCost;
 
+//Display the results
 System.out.println("Company name: "+company);
 System.out.println("Project Location: "+location);
 System.out.println("Estimated total cost for concrete: $"+concreteCost);
 System.out.println("Estimated total cost for labor: $"+laborCost);
 System.out.println("Overall costs estimation: $"+totalCost);
+
+//Next, implemetn the csv file integration, to create a log system. Record the following:
+//Company,Location,Area,Volume,Workers,WorkHours,ManpowerHours,LaborCost,TotalCost
+
 input.close();
 }}
